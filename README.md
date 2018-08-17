@@ -1,3 +1,5 @@
+# DEPRECATED
+
 Apache Kafka on Docker
 ======================
 
